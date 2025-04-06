@@ -53,8 +53,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
-
-###
+30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@BlackSwordGuts/30-nites-of-code)  
+  ![@BlackSwordGuts #30NitesOfCode](https://www.codedex.io/api/petStatus?user=BlackSwordGuts)
 
 <h3 align="left">🔥   My Stats :</h3>
 
