@@ -53,15 +53,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
-**#30NitesOfCode:**
 
-  [Check out my progress!](https://www.codedex.io/@BlackSwordGuts/30-nites-of-code)  
-  
-  ![@BlackSwordGuts #30NitesOfCode](https://www.codedex.io/api/petStatus?user=BlackSwordGuts)
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=supercell02&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
