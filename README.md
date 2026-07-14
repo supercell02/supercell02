@@ -1,136 +1,78 @@
-<h1 align="center">Hi 👋, I'm Amar Kumar Thakur</h1>
-<h3 align="center">"Code is like humor. When you have to explain it, it's bad." — Cory House</h3>
+# Amar Kumar Thakur
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=supercell02&label=Profile%20views&color=0e75b6&style=flat" alt="supercell02" />
-</p>
+**Full-stack engineer. Building AI products for healthcare.**  
+Co-founder at [FREMN](https://www.fremn.com) • System design enthusiast • Competitive programmer
 
 ---
 
-<p align="center">
-  🔭 Working on: <a href="https://www.fremn.com/"><strong>FREMN</strong></a> &nbsp;|&nbsp;
-  🌱 Diving into: <strong>System Design & Software Architecture</strong> &nbsp;|&nbsp;
-  💼 Projects at: <a href="http://amarkt.me"><strong>amarkt.me</strong></a>
-</p>
+## What I'm working on.
 
-<p align="center">
-  💬 Ask me about <strong>frontend development and application</strong> &nbsp;|&nbsp;
-  📫 Reach me: <strong>kumaramar4880@gmail.com</strong>
-</p>
+Building **Solvia** — an AI receptionist that answers calls and books appointments for dental clinics. Currently scaling across India with product-market fit and 30+ paying customers.
 
----
-
-<h3 align="center">Connect with me</h3>
-
-<p align="center">
-  <a href="https://twitter.com/amar4880" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/amarkt" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+| | |
+|---|---|
+| **Role** | Co-founder & Full-Stack Engineer |
+| **Company** | [FREMN Technologies](https://www.fremn.com) |
+| **Status** | Shipping to production, GTM execution |
+| **Interests** | System design, AI backends, startup strategy |
 
 ---
 
-<h3 align="center">Languages & Tools</h3>
+## How I build.
 
-<h4 align="center">Frontend</h4>
-<p align="center">
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a>
-</p>
+### Frontend Architecture
+| Layer | Tools | Purpose |
+|-------|-------|---------|
+| **UI Framework** | React, Next.js, TypeScript | Modern web & mobile foundations |
+| **Styling** | Tailwind CSS, design tokens | Rapid iteration with constraints |
+| **State & Auth** | Convex, Clerk | Real-time sync & authentication |
+| **Mobile** | React Native, Expo | iOS/Android from one codebase |
 
-<h4 align="center">Mobile</h4>
-<p align="center">
-  <a href="https://flutter.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://dart.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" />
-  </a>
-</p>
+### Backend & Data
+| Layer | Tools | Purpose |
+|-------|-------|---------|
+| **Runtime** | Node.js, Python, FastAPI | Flexible compute for different tasks |
+| **Primary DB** | PostgreSQL, pgvector | Relational + vector search |
+| **Real-time** | Convex (serverless backend) | Live sync without managing servers |
+| **Alternative DBs** | MongoDB, Firebase | When OLTP or rapid prototyping calls for it |
 
-<h4 align="center">Backend</h4>
-<p align="center">
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  </a>
-</p>
-
-<h4 align="center">Databases</h4>
-<p align="center">
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
-  </a>
-</p>
-
-<h4 align="center">DevOps & Tools</h4>
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-  </a>
-</p>
+### DevOps & Infrastructure
+| Area | Tools | Status |
+|------|-------|--------|
+| **Version Control** | Git, GitHub | All source code tracked |
+| **CI/CD** | EAS, GitHub Actions | Automated builds and deployments |
+| **Environment** | Linux, WSL2 | Development on Unix-like systems |
+| **Deployment** | Vercel, EAS, Railway | Edge-optimized frontend + backend |
 
 ---
 
-<h3 align="center">GitHub Stats</h3>
+## Skills by depth.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=supercell02&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+| **Expert** | **Proficient** | **Learning** |
+|---|---|---|
+| Next.js & React | Python, FastAPI | LLMs & fine-tuning |
+| TypeScript | System design | Distributed systems |
+| Tailwind CSS | PostgreSQL | ML infrastructure |
+| Full-stack shipping | Competitive programming | AI backend ops |
+| Product thinking | Design systems | DSA mastery |
+
+---
+
+## Recent work.
+- **Fremn Mobile App** — React Native + Expo with Clerk auth, design system from scratch
+- **Solvia (AI Voice)** — Domain-whitelisting security, multi-tenant support
+---
+
+## Get in touch.
+
+| Channel | |
+|---------|--|
+| **Email** | kumaramar4880@gmail.com |
+| **LinkedIn** | [amarkt](https://www.linkedin.com/in/amarkt) |
+| **Twitter/𝕏** | [@amar4880](https://twitter.com/amar4880) |
+| **GitHub** | [supercell02](https://github.com/supercell02) |
+| **Portfolio** | [amarkt.me](http://amarkt.me) |
+
+---
+
+*Interested in founding, investing, or building together? Let's talk.*
