@@ -7,11 +7,10 @@ Co-founder at [FREMN](https://www.fremn.com) • System design enthusiast • Co
 
 ## What I'm working on.
 
-Building **Solvia** — an AI receptionist that answers calls and books appointments for dental clinics. Currently scaling across India with product-market fit and 30+ paying customers.
-
+Building **CleoCode** — all will be revealed in due time
 | | |
 |---|---|
-| **Role** | Co-founder & Full-Stack Engineer |
+| **Role** | Founding Engineer |
 | **Company** | [FREMN Technologies](https://www.fremn.com) |
 | **Status** | Shipping to production, GTM execution |
 | **Interests** | System design, AI backends, startup strategy |
