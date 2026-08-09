@@ -1,77 +1,37 @@
-# Amar Kumar Thakur
+# Hey, I'm Amar 👋
 
-**Full-stack engineer. Building AI products for healthcare.**  
-Co-founder at [FREMN](https://www.fremn.com) • System design enthusiast • Competitive programmer
-
----
-
-## What I'm working on.
-
-Building **CleoCode** — all will be revealed in due time
-| | |
-|---|---|
-| **Role** | Founding Engineer |
-| **Company** | [FREMN Technologies](https://www.fremn.com) |
-| **Status** | Shipping to production, GTM execution |
-| **Interests** | System design, AI backends, startup strategy |
+Full-Stack Engineer based in Kolkata. I build production AI SaaS end-to-end — real-time web apps, mobile apps, and voice AI integrations. Currently Full-Stack Engineer at [FREMN](https://www.fremn.com), building a multi-tenant AI receptionist for dental and outpatient clinics.
 
 ---
 
-## How I build.
+## Skills
 
-### Frontend Architecture
-| Layer | Tools | Purpose |
-|-------|-------|---------|
-| **UI Framework** | React, Next.js, TypeScript | Modern web & mobile foundations |
-| **Styling** | Tailwind CSS, design tokens | Rapid iteration with constraints |
-| **State & Auth** | Convex, Clerk | Real-time sync & authentication |
-| **Mobile** | React Native, Expo | iOS/Android from one codebase |
-
-### Backend & Data
-| Layer | Tools | Purpose |
-|-------|-------|---------|
-| **Runtime** | Node.js, Python, FastAPI | Flexible compute for different tasks |
-| **Primary DB** | PostgreSQL, pgvector | Relational + vector search |
-| **Real-time** | Convex (serverless backend) | Live sync without managing servers |
-| **Alternative DBs** | MongoDB, Firebase | When OLTP or rapid prototyping calls for it |
-
-### DevOps & Infrastructure
-| Area | Tools | Status |
-|------|-------|--------|
-| **Version Control** | Git, GitHub | All source code tracked |
-| **CI/CD** | EAS, GitHub Actions | Automated builds and deployments |
-| **Environment** | Linux, WSL2 | Development on Unix-like systems |
-| **Deployment** | Vercel, EAS, Railway | Edge-optimized frontend + backend |
+**Languages:** TypeScript, JavaScript, Python, SQL, Bash  
+**Frontend:** React, Next.js, React Native, Expo, Tailwind CSS  
+**Backend:** Node.js, FastAPI, REST APIs, Convex, Clerk  
+**Databases:** PostgreSQL, MongoDB, Firebase  
+**DevOps:** Git, GitHub Actions, EAS, Vercel, Railway  
 
 ---
 
-## Skills by depth.
+## Experience
 
-| **Expert** | **Proficient** | **Learning** |
-|---|---|---|
-| Next.js & React | Python, FastAPI | LLMs & fine-tuning |
-| TypeScript | System design | Distributed systems |
-| Tailwind CSS | PostgreSQL | ML infrastructure |
-| Full-stack shipping | Competitive programming | AI backend ops |
-| Product thinking | Design systems | DSA mastery |
+**Full-Stack Engineer @ [FREMN](https://www.fremn.com)** 
+Sole engineer on Fremn's web frontend (Next.js, TypeScript, Tailwind CSS, Convex, Clerk) and React Native/Expo mobile app. Building a multi-tenant AI SaaS platform for dental and outpatient clinic automation, including Solvia, Fremn's AI voice agent.
 
 ---
 
-## Recent work.
-- **Fremn Mobile App** — React Native + Expo with Clerk auth, design system from scratch
-- **Solvia (AI Voice)** — Domain-whitelisting security, multi-tenant support
----
+## Education
 
-## Get in touch.
-
-| Channel | |
-|---------|--|
-| **Email** | kumaramar4880@gmail.com |
-| **LinkedIn** | [amarkt](https://www.linkedin.com/in/amarkt) |
-| **Twitter/𝕏** | [@amar4880](https://twitter.com/amar4880) |
-| **GitHub** | [supercell02](https://github.com/supercell02) |
-| **Portfolio** | [amarkt.me](http://amarkt.me) |
+**Techno India University, Kolkata** — B.Tech, Computer Science & Engineering *(2024 – 2027)* 
+**Techno India University, Kolkata** — Diploma, Computer Science & Engineering *(2021 – 2024)*
 
 ---
 
-*Interested in founding, investing, or building together? Let's talk.*
+💼 Open to founding, investing, or building together
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-amarkt.me-000000?style=flat&logo=vercel&logoColor=white)](http://amarkt.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amarkt-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amarkt)
+[![Twitter](https://img.shields.io/badge/Twitter-@amar4880-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/amar4880)
+[![GitHub](https://img.shields.io/badge/GitHub-supercell02-181717?style=flat&logo=github&logoColor=white)](https://github.com/supercell02)
+[![Email](https://img.shields.io/badge/Email-kumaramar4880@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kumaramar4880@gmail.com)
