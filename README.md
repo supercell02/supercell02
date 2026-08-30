@@ -32,6 +32,9 @@ Designed and implemented a scalable appointment management platform supporting w
 **Solvia — AI Customer Support Operating System** *[Live](https://solvia.fremn.com/)*  
 Designed a multi-tenant customer support platform with organization-level authentication and secure data isolation. Implemented backend APIs, database integration and customer-specific workflows for scalable SaaS deployment, with production monitoring, secure credential management and structured error reporting.
 
+**SoapBoard — Real-time Collaborative Whiteboard** *[Live](https://soapboard.amarkt.me/)*  
+Built a modern collaborative whiteboard platform enabling teams to create and iterate together with live cursor tracking, drawing tools, shape layers, and text annotations. Implemented real-time synchronization across 100+ layers per board with Liveblocks, organization-based access control via Clerk, and persistent data management with Convex, using Next.js 16 and React 19.
+
 ---
 
 ## Education
